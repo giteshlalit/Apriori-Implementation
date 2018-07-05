@@ -1,2 +1,2 @@
 # Apriori-Implementation
-Implementaion of apriori algorithm in C.
+Implementaion of apriori algorithm in CPP.
